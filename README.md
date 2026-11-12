@@ -1,3 +1,8 @@
+> **Fork de Creative Planet** de [makeplane/plane](https://github.com/makeplane/plane) (AGPL-3.0).
+> - Rama `creativeplanet` = tag estable de upstream + parches propios (commits con prefijo `cp:`). `preview` es solo espejo de upstream: no se commitea ahí.
+> - **Este repo es solo código.** La operación y el despliegue (compose, scripts, respaldos, procedimientos) viven en el repo privado `webdany2k/plane-ops`.
+> - Para actualizar: `git fetch upstream --tags` y rebase o merge del tag nuevo sobre `creativeplanet`.
+
 <br /><br />
 
 <p align="center">
